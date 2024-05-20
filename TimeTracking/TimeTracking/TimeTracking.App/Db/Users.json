@@ -1,0 +1,58 @@
+[
+  {
+    "FirstName": "Bob",
+    "LastName": "Bobsky",
+    "Age": 30,
+    "Username": "bobsky123",
+    "Password": "Bobsky123",
+    "Id": 70
+  },
+  {
+    "FirstName": "Jill",
+    "LastName": "Jillsky",
+    "Age": 28,
+    "Username": "jill123",
+    "Password": "Jillsky123",
+    "Id": 71
+  },
+  {
+    "FirstName": "Mike",
+    "LastName": "Mikesky",
+    "Age": 25,
+    "Username": "mike123",
+    "Password": "Mikesky123",
+    "Id": 72
+  },
+  {
+    "FirstName": null,
+    "LastName": null,
+    "Age": 0,
+    "Username": "sarauzhanovska",
+    "Password": "Sara123",
+    "Id": 73
+  },
+  {
+    "FirstName": null,
+    "LastName": null,
+    "Age": 0,
+    "Username": "radica123",
+    "Password": "Radica123",
+    "Id": 74
+  },
+  {
+    "FirstName": null,
+    "LastName": null,
+    "Age": 0,
+    "Username": "simona123",
+    "Password": "Simona123",
+    "Id": 75
+  },
+  {
+    "FirstName": "Marija",
+    "LastName": "Markovska",
+    "Age": 52,
+    "Username": "marija1",
+    "Password": "Marija1",
+    "Id": 76
+  }
+]
